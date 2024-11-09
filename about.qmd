@@ -1,0 +1,65 @@
+---
+title: "About"
+---
+
+Da-Yea's research focuses on unraveling the complexities of brain development in autism and its developmental trajectories through the integration of genetic, neuroimaging, and behavioral data. She is also dedicated to exploring the interplay between mental and physical health, with the aim of enhancing well-being in individuals and families affected by neurodevelopmental disorders.
+
+## Education 🎓
+
+[**Johns Hopkins Bloomberg School of Public Health**]{style="color: brown;"} \| Baltimore, MD<br>Ph.D. in Mental Health (Expected 2027)
+
+[**University College London**]{style="color: brown;"} \| London, UK<br>MSc in Advanced Neuroimaging (2021) <em>Distinction</em>
+
+[**Johns Hopkins Bloomberg School of Public Health**]{style="color: brown;"} \| Baltimore, MD<br>MHS in Mental Health (2018) <em>Delta Omega</em>
+
+[**Sogang University**]{style="color: brown;"} \| Seoul, South Korea<br>BA in Psychology (2017) <em>Magma Cum Lauder</em>
+
+## Research Experience 👩🏻‍🔬
+
+[**Seoul National University**]{style="color: brown;"} \| <em>Dean Appointed Researcher</em> \| 2021-2023
+
+[**Seoul National Bundang Hospital**]{style="color: brown;"} \| <em>Research Staff</em> \| 2019-2021
+
+[**Kennedy Krieger Institute**]{style="color: brown;"} \| <em>Research Assistant</em> \| 2018-2019
+
+[**Wendy Klag Center for Autism and Developmental Disabilities**]{style="color: brown;"} \| <em>Student Trainee</em> \| 2017-2018
+
+## Publications 📚
+
+Kim, S. W., Lee, H., [**Song, D. Y.,**]{style="color: brown;"} Lee, G. H., Ji, J., Park, J. W., Han, J. H., Lee, J. W., Byun, H. J., Son, J. H., Kim, Y. R., Lee, Y., Kim, J., Jung, A., Lee, J., Kim, E., Kim, S. H., Lee, J. H., Satterstrom, F. K., Girirajan, S., … An, J. Y. (2024). Whole genome sequencing analysis identifies sex differences of familial pattern contributing to phenotypic diversity in autism. Genome medicine, 16(1), 114. [https://doi.org/10.1186/s13073-024-01385-6](https://doi.org/10.1186/s13073-024-01385-6)
+
+Koehler, J. C., Dong, M. S., [**Song, D. Y.,**]{style="color: brown;"} Bong, G., Koutsouleris, N., Yoo, H., & Falter-Wagner, C. M. (2024). Classifying autism in a clinical population based on motion synchrony: a proof-of-concept study using real-life diagnostic interviews. Scientific reports, 14(1), 5663. [https://doi.org/10.1038/s41598-024-56098-y](https://doi.org/10.1038/s41598-024-56098-y)
+
+Kim, J. H., Koh, I. G., Lee, H., Lee, G. H., [**Song, D. Y.,**]{style="color: brown;"}, Kim, S. W., Kim, Y., Han, J. H., Bong, G., Lee, J., Byun, H., Son, J. H., Kim, Y. R., Lee, Y., Kim, J. J., Park, J. W., Kim, I. B., Choi, J. K., Jang, J. H., Trost, B., … An, J. Y. (2024). Short tandem repeat expansions in cortical layer-specific genes implicate in phenotypic severity and adaptability of autism spectrum disorder. Psychiatry and clinical neurosciences, 78(7), 405–415. [https://doi.org/10.1111/pcn.13676](https://doi.org/10.1111/pcn.13676)
+
+Kim, S. Y., [**Song, D. Y.,**]{style="color: brown;"} Bong, G., Han, J. H., & Yoo, H. J. (2024). Descriptive Analysis of Social Interaction and Communication Skills of Autistic Children According to Sibling Status and Characteristics. Psychiatry investigation, 21(1), 44–51. [https://doi.org/10.30773/pi.2023.0209](https://doi.org/10.30773/pi.2023.0209)
+
+Kim, Y. R., [**Song, D. Y.,**]{style="color: brown;"} Bong, G., Han, J. H., Kim, J. H., & Yoo, H. J. (2023). Clinical characteristics of comorbid tic disorders in autism spectrum disorder: exploratory analysis. Child and adolescent psychiatry and mental health, 17(1), 71. [https://doi.org/10.1186/s13034-023-00625-8](https://doi.org/10.1186/s13034-023-00625-8)
+
+Kim, S. Y., [**Song, D. Y.,**]{style="color: brown;"} Bottema-Beutel, K., & Gillespie-Lynch, K. (2023). Time to level up: A systematic review of interventions aiming to reduce stigma toward autistic people. Autism : the international journal of research and practice, 28(4), 798–815. [https://doi.org/10.1177/13623613231205915](https://doi.org/10.1177/13623613231205915)
+
+Kim, J. H., [**Song, D. Y.,**]{style="color: brown;"} Han, H. S., Yoon, N. H., Cho, H. B., Lee, H. B., Choi, K. H., Chae, P. K., Bong, G., Ahn, S., & Yoo, H. J. (2023). Improving adaptive behaviors for autistic adults without intellectual disability through executive function training. Asian journal of psychiatry, 84, 103579. [https://doi.org/10.1016/j.ajp.2023.103579](https://doi.org/10.1016/j.ajp.2023.103579)
+
+Kim, Y. R., [**Song, D. Y.,**]{style="color: brown;"} Bong, G., Han, J. H., & Yoo, H. J. (2023). Loss of Acquired Skills: Regression in Young Children With Autism Spectrum Disorders. Soa--ch'ongsonyon chongsin uihak = Journal of child & adolescent psychiatry, 34(1), 51–56. [https://doi.org/10.5765/jkacap.220029](https://doi.org/10.5765/jkacap.220029)
+
+Kim, S. Y., Oh, M., Bong, G., [**Song, D. Y.,**]{style="color: brown;"}, Yoon, N. H., Kim, J. H., & Yoo, H. J. (2022). Diagnostic validity of Autism Diagnostic Observation Schedule, second edition (K-ADOS-2) in the Korean population. Molecular autism, 13(1), 30. [https://doi.org/10.1186/s13229-022-00506-5](https://doi.org/10.1186/s13229-022-00506-5)
+
+[**Song, D. Y.,**]{style="color: brown;"} Kim, D., Lee, H. J., Bong, G., Han, J. H., & Yoo, H. J. (2022). Patterns of Restricted and Repetitive Behaviors in Toddlers and Young Children with Autism Spectrum Disorder. Soa--ch'ongsonyon chongsin uihak = Journal of child & adolescent psychiatry, 33(2), 35–40. [https://doi.org/10.5765/jkacap.220001](https://doi.org/10.5765/jkacap.220001)
+
+Kim, S. Y., [**Song, D. Y.,**]{style="color: brown;"} Bottema-Beutel, K., Gillespie-Lynch, K., & Cage, E. (2022). A systematic review and meta-analysis of associations between primarily non-autistic people's characteristics and attitudes toward autistic people. Autism research : official journal of the International Society for Autism Research, 16(2), 441–457. [https://doi.org/10.1002/aur.2867](https://doi.org/10.1002/aur.2867)
+
+[**Song, D. Y.,**]{style="color: brown;"} Kim, S. Y., Bong, G., Kim, Y. A., Kim, J. H., Kim, J. M., & Yoo, H. J. (2021). Exploring sex differences in the manifestation of autistic traits in young children. Research in Autism Spectrum Disorders, 88. [https://doi.org/10.1016/j.rasd.2021.101848](https://doi.org/10.1016/j.rasd.2021.101848)
+
+[**Song, D. Y.,**]{style="color: brown;"} Topriceanu, C. C., Ilie-Ablachim, D. C., Kinali, M., & Bisdas, S. (2021). Machine learning with neuroimaging data to identify autism spectrum disorder: a systematic review and meta-analysis. Neuroradiology, 63(12), 2057–2072. [https://doi.org/10.1007/s00234-021-02774-z](https://doi.org/10.1007/s00234-021-02774-z)
+
+Kim, J. H., Kim, Y. A., [**Song, D. Y.,**]{style="color: brown;"} Cho, H. B., Lee, H. B., Park, J. H., Lim, J. I., Hong, M. H., Chae, P. K., & Yoo, H. J. (2021). An Intervention Program Targeting Daily Adaptive Skills Through Executive Function Training for Adults with Autism Spectrum Disorder: A Pilot Study. Psychiatry investigation, 18(6), 513–522. [https://doi.org/10.30773/pi.2020.0423](https://doi.org/10.30773/pi.2020.0423)
+
+Bong, G., Kim, S. Y., [**Song, D. Y.,**]{style="color: brown;"} Kim, J. H., Hong, Y., Yoon, N. H., Sunwoo, H., Jang, J. Y., Oh, M., Kim, J. M., Lee, K. S., Jung, S., Choi, C. W., Ryu, J. S., & Yoo, H. J. (2021). Short caregiver interview and play observation for early screening of autism spectrum disorder: Behavior development screening for toddlers (BeDevel). Autism research : official journal of the International Society for Autism Research, 14(7), 1472–1483. [https://doi.org/10.1002/aur.2510](https://doi.org/10.1002/aur.2510)
+
+Oh, M., [**Song, D. Y.,**]{style="color: brown;"} Bong, G., Yoon, N. H., Kim, S. Y., Kim, J. H., Kim, J., & Yoo, H. J. (2021). Validating the Autism Diagnostic Interview-Revised in the Korean Population. Psychiatry investigation, 18(3), 196–204. [https://doi.org/10.30773/pi.2020.0337](https://doi.org/10.30773/pi.2020.0337)
+
+Kim, S. Y., Kim, Y. A., [**Song, D. Y.,**]{style="color: brown;"} Bong, G., Kim, J. M., Kim, J. H., & Yoo, H. J. (2021). State and Trait Anxiety of Adolescents with Autism Spectrum Disorders. Psychiatry investigation, 18(3), 257–265. [https://doi.org/10.30773/pi.2020.0328](https://doi.org/10.30773/pi.2020.0328)
+
+Kim, S. Y., [**Song, D. Y.,**]{style="color: brown;"} Kim, Y. A., Bong, G., Kim, J. M., Kim, J. H., & Yoo, H. J. (2020). How Do Children with Autism Spectrum Disorder Encode and Reproduce Visuospatial Stimuli?: Investigation into Visuospatial Processing Abilities and Styles. Psychiatry investigation, 17(11), 1105–1107. [https://doi.org/10.30773/pi.2020.0189](https://doi.org/10.30773/pi.2020.0189)
+
+[**Song, D. Y.,**]{style="color: brown;"} Kim, S. Y., Bong, G., Kim, J. M., & Yoo, H. J. (2019). The Use of Artificial Intelligence in Screening and Diagnosis of Autism Spectrum Disorder: A Literature Review. Soa--ch'ongsonyon chongsin uihak = Journal of child & adolescent psychiatry, 30(4), 145–152. [https://doi.org/10.5765/jkacap.190027](https://doi.org/10.5765/jkacap.190027)

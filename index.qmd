@@ -1,0 +1,24 @@
+---
+title: "Welcome"
+image: "photo_dayea.JPG"
+about:
+  id: hero-heading
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/da-yea-song-b42870155/"
+    - icon: GitHub
+      text: GitHub
+      href: "https://github.com/dsong13"      
+    - icon: mailbox
+      text: E-mail
+      href: "mailto:dsong13@jhmi.edu"
+format:
+  html:
+    theme: Journal
+---
+
+Da-Yea is a global nomad, born in South Korea but having lived in the UAE, Morocco, and the Czech Republic. Currently, she resides in the US, pursuing her doctoral degree in the Department of Mental Health at the Johns Hopkins Bloomberg School of Public Health.
+
+She has been a lifelong baseball fan and an advanced open-water diver who loves any water-based physical activity.
